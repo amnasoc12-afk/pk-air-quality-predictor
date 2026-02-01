@@ -7,14 +7,15 @@ becomes dangerous, so cities can act before it's too late.
  Project Overview
 Air pollution is one of Pakistan's most serious environmental challenges. Cities like Lahore consistently rank among the most polluted in the world, particularly during the November–February smog season. This project builds a machine learning model that predicts the Air Quality Index (AQI) for 6 major Pakistani cities based on weather and traffic data.
 Project Structure
-ai-air-quality-predictor/
-│
-├── air_quality_predictor.py     # Main script (all steps)
-├── air_quality_data.csv         # Generated dataset (auto-created on run)
-├── eda_analysis.png             # EDA visualizations (auto-created)
-├── model_comparison.png         # Model comparison plots (auto-created)
-├── requirements.txt             # Python dependencies
-└── README.md                    # 
+ai-air-quality-predictor
+
+├── air_quality_predictor.py     
+├── air_quality_data.csv         
+├── eda_analysis.png            
+├── model_comparison.png         
+├── requirements.txt         
+└── README.md                   
+            
 How to Run
 Step 1 — Install Dependencies
 pip install -r requirements.txt
