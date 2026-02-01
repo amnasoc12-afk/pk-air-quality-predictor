@@ -61,11 +61,9 @@ Output:
   📋 Category      : 🔴 Unhealthy
 ─────────────────────────────────────────────
 Future Improvements
-[ ] Use real-time data from Pakistan Meteorological Department (met.gov.pk)
-[ ] Add more cities (Multan, Hyderabad, Quetta)
-[ ] Integrate PM2.5 and PM10 as additional features
-[ ] Build a simple web dashboard using Flask or Streamlit
-[ ] Add time-series forecasting (predict next 7 days)
+Use real-time data from Pakistan Meteorological Department (met.gov.pk)
+ Integrate PM2.5 and PM10 as additional features
+ Add time-series forecasting (predict next 7 days)
  Related Work
 3D Air Purifier Project — UCP Science & Technology Fest 2023
 (Physical solution → this project is the AI/data-driven follow-up)
