@@ -18,7 +18,7 @@ ai-air-quality-predictor
             
 How to Run
 Step 1 — Install Dependencies
-pip install -r requirements.txt
+pip install requirements.txt
 Step 2 — Run the Project
 python air_quality_predictor.py
 That's it. The script will:
